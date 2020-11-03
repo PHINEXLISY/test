@@ -3,11 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <title>js使用</title>
+    <script type="text/javascript" src="xxx.js"></script>
 </head>
 <body>
 
-<a href="javascript:;">链接ZAB</a>
-<a href="javascript:;" onclick="alert('这是一段测试代码')">有弹窗的链接</a>
 
+<br>
+<a href="javascript:;" onclick="alert('行内使用')">行内使用</a>
+<br>
+<a href="javascript:;" onclick="函数()">嵌入</a>
+
+
+
+<script>
+    function 函数(){
+        alert("嵌入使用哦")
+    }
+</script>
 </body>
 </html>
