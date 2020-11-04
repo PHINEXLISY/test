@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abf2847-141e-48b5-8941-c7692c2bf936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JS/8函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JS/10运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JS/11流程-循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JS/12流程-跳转语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JS/13流程-选择语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JS/14流程-异常捕获.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JS/9运算符.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +63,7 @@
       <updated>1604325826549</updated>
       <workItem from="1604325828260" duration="3245000" />
       <workItem from="1604401629981" duration="11750000" />
+      <workItem from="1604495410922" duration="2926000" />
     </task>
     <task id="LOCAL-00001" summary="opt-">
       <created>1604326487238</created>
