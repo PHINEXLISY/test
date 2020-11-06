@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abf2847-141e-48b5-8941-c7692c2bf936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.JS/10运算符.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JS/11流程-循环.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JS/12流程-跳转语句.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JS/13流程-选择语句.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JS/14流程-异常捕获.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.JS/9运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JS/xxx.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.HTML/1.2test.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.HTML/1.2test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.HTML/10div.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.HTML/10div.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.HTML/4testimg.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.HTML/4testimg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.HTML/8css样式.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.HTML/8css样式.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.HTML/9table.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.HTML/9table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JS/1testjs.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.JS/1testjs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JS/2testjs.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.JS/2testjs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JS/3testjs.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.JS/3testjs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.JS/4变量.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.JS/4变量.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -63,7 +68,10 @@
       <updated>1604325826549</updated>
       <workItem from="1604325828260" duration="3245000" />
       <workItem from="1604401629981" duration="11750000" />
-      <workItem from="1604495410922" duration="2926000" />
+      <workItem from="1604495410922" duration="5801000" />
+      <workItem from="1604587135250" duration="600000" />
+      <workItem from="1604662088319" duration="5873000" />
+      <workItem from="1604673239661" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="opt-">
       <created>1604326487238</created>
@@ -177,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604417031942</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="opt-">
+      <created>1604498553785</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604498553785</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,10 +203,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="opt-" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="0" key="CommitChangelistDialog2" timestamp="1604417031065">
+    <state x="554" y="0" key="CommitChangelistDialog2" timestamp="1604498552719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604417031065" />
+    <state x="554" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604498552719" />
     <state x="807" y="288" key="FileChooserDialogImpl" timestamp="1604325841079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -200,10 +215,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="460" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604408363905" />
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1604409004252">
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2" timestamp="1604503088775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604409004252" />
+    <state x="551" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604503088775" />
     <state x="718" y="388" width="620" height="292" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1604325842440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
