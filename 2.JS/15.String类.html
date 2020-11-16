@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>String类</title>
+</head>
+<body>
+
+</body>
+
+<script>
+    var str="刻晴晴"
+    testString2=str.indexOf("晴");
+    testString3=str.lastIndexOf("晴");
+    console.log(str,testString2,testString3);
+
+    console.log(new String("刻晴晴"));
+
+    str.search("晴")/*TODO 查找 >>>返回第一次出现的索引值*/
+    str.includes("晴")/*TODO 是否存在 >>>返回是、否*/
+    str.startsWith("刻",0)/*TODO 是否以xxx为开头 >>>返回是、否*/
+    str.endsWith("晴",str.length)/*TODO 是否以xxx为结尾 >>>返回是、否*/
+    str.charAt(0)/*TODO 返回指定位置的字符 >>>返回字符*/
+    str.substring(1,2)/*TODO 截取(从x截取到x) >>> 返回截取部分字符串*/
+    str.slice(1,2)/*TODO 截取(从x截取到x) >>> 返回截取部分字符串（包左不包右）*/
+    str.substr(0,3)/*TODO 截取(从x开始截取x个) >>> 返回截取部分字符串*/
+
+    var str1="我爱"
+    str1.concat(str)/*TODO 连接字符串 >>> 返回连接好的字符串*/
+    str.split()/*TODO 字符串转化为数组 >>> 返回数组*/
+    str.replace("晴","静");str.replaceAll("晴","静")/*TODO　替换字符 >>> 替换好的字符串*/
+    str.repeat("晴")/*TODO 计算重复的次数 >>> 返回次数*/
+    str.trim()/*TODO 去掉字符串前后的空白 >>> 返回字符串*/
+    str.toLowerCase()/*TODO 转小写*/
+    str.toUpperCase()/*TODO 转大写*/
+
+</script>
+
+</html>
